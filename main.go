@@ -6,5 +6,5 @@ import (
 )
 
 func Hello(name string) {
-	fmt.Printf("Hello, %s!", name)
+	fmt.Printf("Hello, %s!\n", name)
 }
